@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon">
+    <title>CORREIO ELEGANTE CIFRADO</title>
+    <link rel="stylesheet" href="style.css"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia"/>
+  </head>
+  <body>
+    <h1>Correio Elegante</h1>
+    <textarea id="message" placeholder="Está em uma festa junina e precisa de ajuda para declarar o seu amor? Insira a sua mensagem aqui..." required></textarea>
+    <p>Escolha um número para a chave secreta:</p>
+    <input id="displacement" type="number" required>
+    <div>
+      <div>
+        <input id="encrypt" type="button" value="Criptografar">
+      </div>
+      <div> 
+        <input id="decrypt" type="button" value="Descriptografar">
+      </div>
+    </div>
+    <br> 
+    <p id="resultText">Confira o resultado:</p>
+    <textarea id="result" type="text" placeholder="Mensagem secreta 🔐" readonly></textarea>
+    <div>
+      <input id="clean" type="button" value="Limpar">
+    </div>
+    <img src="imagens/sun.gif" id="sun">
+    <script type="module" src="index.js"></script>
+  </body>
+</html>
