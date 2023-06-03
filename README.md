@@ -1,7 +1,6 @@
-# <div align="center"> 💌 CORREIO ELEGANTE CIFRADO 💌
+# <div align="center"> 💌 CORREIO ELEGANTE CIFRADO 💌 </div>
 
-### Acesse o projeto completo [CLICANDO AQUI](https://vanessanmenezes.github.io/Cipher/)
-</div>
+### <div align="center"> Acesse o projeto completo [CLICANDO AQUI](https://vanessanmenezes.github.io/Cipher/) </div>
 
 ***
 
@@ -38,7 +37,7 @@ O aplicativo web de Cifra **CORREIO ELEGANTE CIFRADO**, foi planejada com o intu
 
 A interface do usuário (UI), ou seja, a parte visual desse projeto, foi pensada com base nas cores típicas de elemetos juninos e que estão ligadas à mensagens românticas. Atráves da psicologia das cores, foi escolhida a cor vermelha, que representa amor, paixão e aventura, e rosa, que representa romantismo, ternura e felicidade. Como estamos falando de uma página direcionada para declarações, estas cores foram definidas. Sendo assim, a paleta abaixo foi selecionada para estabelecer a comunicação visual entre usuário e marca (CORREIO ELEGANTE CIFRADO), fortalecendo a identidade visual dessa plataforma e tornando-a reconhecível.
 
-<div align="center"> <img src= "src/imagens/paleta.png" width = "350px" height = "450px"/> </div>
+<div align="center"> <img src= "src/imagens/paleta.png" width = "350px" height = "500px"/> </div>
 
 Tanto a interface, quanto a experiência do usuário, foram pensadas e baseadas atráves de um protótipo construído no figma (imagem abaixo). A experiência do usuário (UX), foi de forma geral estabelecida de maneira fácil, compreensível, simples, intuitiva e até mesmo interessante de ser utilizada pelo público-alvo.
 
@@ -46,6 +45,6 @@ Tanto a interface, quanto a experiência do usuário, foram pensadas e baseadas 
 
 ***
 
-## ESTE PROJETO FOI CRIADO E DESENVOLVIDO POR: [VANESSA MENEZES](https://github.com/VanessaNMenezes) ❤️
+### 🔥 ESTE PROJETO FOI CRIADO E DESENVOLVIDO POR: [VANESSA MENEZES](https://github.com/VanessaNMenezes) ❤️
 
 ***
